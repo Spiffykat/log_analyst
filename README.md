@@ -1,5 +1,5 @@
 # log_analyst
-Shift through logs quickly.
+Shift through ticky logs quickly.
 
 Complete Virtual Environment 
 
